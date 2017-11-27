@@ -1,0 +1,25 @@
+version: '3.3'
+
+services:
+
+  sql:
+    image: sc9xm1sql    
+    container_name: ItemRendererDemoWebsite_sql
+
+  cm:
+    image: sc9xm1cm    
+    container_name: ItemRendererDemoWebsite_cm
+    depends_on:
+      - sql
+    ports: 
+      - 80:80
+    links:
+      - sql
+    volumes:
+      - type: bind
+        source: ./output
+        target: c:/output
+      - type: bind
+        source: ./serialization
+        target: c:/serialization    
+

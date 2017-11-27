@@ -1,0 +1,14 @@
+﻿---
+ID: "6f1b3fd8-0201-403c-a929-d7f2b959d964"
+Parent: "0f4ac30c-4bef-42f1-b5da-d442329849f4"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/ItemRendererDemo/Text Block/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171116T212139Z

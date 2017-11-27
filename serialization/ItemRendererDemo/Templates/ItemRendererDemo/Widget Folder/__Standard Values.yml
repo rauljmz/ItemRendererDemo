@@ -1,0 +1,28 @@
+﻿---
+ID: "65251ba1-1748-4e3a-b9a3-4854adbed5f5"
+Parent: "6db2fa6c-f5f4-42d5-b458-b215d178a832"
+Template: "6db2fa6c-f5f4-42d5-b458-b215d178a832"
+Path: /sitecore/templates/ItemRendererDemo/Widget Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {D0FFF815-F970-4F8D-B4AA-7B4A6258C977}
+    {DBB41C42-1EDA-46DC-A8D1-B3ACC06AC782}
+    {0F4AC30C-4BEF-42F1-B5DA-D442329849F4}
+    {7F44721D-C0DD-4614-8C00-B1D48F354D6C}
+    {4C9B4891-77E5-4D29-B097-F3A98E2E8FE8}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171114T162133Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

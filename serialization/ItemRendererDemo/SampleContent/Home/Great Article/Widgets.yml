@@ -1,0 +1,19 @@
+﻿---
+ID: "5db32382-7451-429e-9bbf-84d88c4e94f1"
+Parent: "fcca845f-b9b4-4a33-a18b-1502b1f2693d"
+Template: "6db2fa6c-f5f4-42d5-b458-b215d178a832"
+Path: /sitecore/content/Home/Great Article/Widgets
+DB: master
+BranchID: "8cfb8f40-1e37-4373-b94c-87a5b75f2cb2"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{C249362C-B88F-47E7-9E2E-F115CBCAE53A}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171125T115405Z

@@ -1,0 +1,14 @@
+﻿---
+ID: "c249362c-b88f-47e7-9e2e-f115cbcae53a"
+Parent: "ecfa6c0a-cffa-417c-8905-59fcddcaa4b7"
+Template: "6db2fa6c-f5f4-42d5-b458-b215d178a832"
+Path: /sitecore/templates/Branches/ItemRendererDemo/Simple page/$name/Widgets
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171125T115127Z

@@ -1,0 +1,22 @@
+﻿---
+ID: "9a0cff7c-b596-4469-a184-fe7ba5b349e3"
+Parent: "dec08a95-fc28-4485-8223-f80044ac58b8"
+Template: "99f8905d-4a87-4eb8-9f8b-a9bebfb3add6"
+Path: /sitecore/layout/Renderings/ItemRendererDemo/Widgets/TextBlock
+DB: master
+SharedFields:
+- ID: "51b435bc-f7b9-478a-9c51-52916af96ff5"
+  Hint: Path
+  Value: /Views/WidgetRenderers/TextBlock.cshtml
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171116T211932Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

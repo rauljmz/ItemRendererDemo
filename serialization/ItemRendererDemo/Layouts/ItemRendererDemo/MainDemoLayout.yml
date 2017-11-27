@@ -1,0 +1,18 @@
+﻿---
+ID: "a67e68a8-4e2b-458c-9f53-d2265d331750"
+Parent: "6c5aa89a-b825-428b-988c-8760dc480504"
+Template: "3a45a723-64ee-4919-9d41-02fd40fd1466"
+Path: /sitecore/layout/Layouts/ItemRendererDemo/MainDemoLayout
+DB: master
+SharedFields:
+- ID: "a036b2bc-ba04-44f6-a75f-bae6cd242abf"
+  Hint: Path
+  Value: /Views/MainDemoLayout.cshtml
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171116T212810Z

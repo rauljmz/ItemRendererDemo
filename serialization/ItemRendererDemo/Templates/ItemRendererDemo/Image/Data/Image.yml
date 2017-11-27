@@ -1,0 +1,18 @@
+﻿---
+ID: "406b570b-b34e-4147-9289-f026324799ec"
+Parent: "a10cb0af-969a-49f2-9928-68dcee35837e"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/ItemRendererDemo/Image/Data/Image
+DB: master
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Image
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171114T163323Z

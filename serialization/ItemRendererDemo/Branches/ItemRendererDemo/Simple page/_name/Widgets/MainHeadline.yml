@@ -1,0 +1,21 @@
+﻿---
+ID: "e7783d67-199d-4c48-8ef3-2044e2ae7307"
+Parent: "c249362c-b88f-47e7-9e2e-f115cbcae53a"
+Template: "d0fff815-f970-4f8d-b4aa-7b4a6258c977"
+Path: /sitecore/templates/Branches/ItemRendererDemo/Simple page/$name/Widgets/MainHeadline
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171125T115204Z
+    - ID: "b9511640-ce8f-427f-89f5-f0ce32376eff"
+      Hint: Headline
+      Value: $name
